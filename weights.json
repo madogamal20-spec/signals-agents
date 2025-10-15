@@ -1,0 +1,11 @@
+{
+  "indicators": {
+    "EMA": 0.25,
+    "RSI": 0.2,
+    "BOLL": 0.2,
+    "ATR": 0.15,
+    "STOCH": 0.1,
+    "ADX": 0.1
+  },
+  "max_single_indicator_weight": 0.35
+}
