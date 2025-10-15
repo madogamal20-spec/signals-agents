@@ -1,0 +1,15 @@
+{
+  "timeframes": ["5m","15m"],
+  "pairs": ["BTCUSDT","ETHUSDT","BNBUSDT"],
+  "rsi_buy": 55,
+  "rsi_sell": 45,
+  "ema_fast": 20,
+  "ema_slow": 50,
+  "bb_mult": 2,
+  "atr_low_cut": 0.001,
+  "spread_max": 0.0005,
+  "vol_min": 1000000,
+  "confidence_min": 0.7,
+  "cooldown_minutes": 45,
+  "max_signals_per_day_per_pair": 5
+}
